@@ -1,0 +1,23 @@
+body {
+    background: #887244;
+    color: rgb(238, 234, 234);
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     flex-direction:column;
+  }
+  
+  img {
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */ 
+    -o-user-select: none;
+    user-select: none; /* Non-prefixed version (Chrome, Edge, Opera and Firefox) */
+  }
+  
+  p {
+    display: block;
+  }
